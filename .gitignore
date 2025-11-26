@@ -1,0 +1,16 @@
+# Secrets
+env.json
+token.json
+client_secret.json
+story.json
+session_cache.json
+videos.json
+
+# IDE / OS
+*.log
+*.tmp
+
+# Go
+/bin/
+/dist/
+/build/
